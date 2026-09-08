@@ -84,7 +84,7 @@ git clone URL_DO_REPOSITORIO
 Acesse a pasta do projeto:
 
 ```bash
-cd site-cursos-ifrn
+cd cursos-ifpdf
 ```
 
 Instale as dependências:
