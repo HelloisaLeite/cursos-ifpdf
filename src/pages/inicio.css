@@ -1,0 +1,28 @@
+.hero {
+    background: linear-gradient(to right, #00843e38, #2e7d32b0);
+    text-align: center;
+    padding: 80px 20px;
+}
+
+span {
+    color: #1c581f;
+}
+
+.sobre {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 0 20px;
+  text-align: justify;
+}
+
+.sobre h2 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: var(--title-color);
+}
+
+.cursos h2 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: var(--title-color);
+}

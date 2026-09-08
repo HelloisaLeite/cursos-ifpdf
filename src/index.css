@@ -1,0 +1,33 @@
+:root {
+  --nav-background-color: #2E7D32;
+  --nav-text-color: white;
+  --title-color: #161616;
+  --title-terciary-color: #eeeeee;
+  --text-font-family: Arial, sans-serif;
+  
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: var(--title-color);
+  font-size: 42px;
+  margin-top: 10px;
+}
+
+h3 {
+  color: var(--title-terciary-color);
+  font-size: 20px;
+  
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  font-family: var(--text-font-family);
+}
